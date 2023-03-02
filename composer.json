@@ -1,0 +1,18 @@
+{
+    "name": "dimensitiga/sam",
+    "description": "Sistem Antrian Multimedia",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Dimensitiga\\Sam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DimensiTiga"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
