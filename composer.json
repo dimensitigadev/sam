@@ -2,7 +2,7 @@
     "name": "dimensitiga/sam",
     "description": "Sistem Antrian Multimedia",
     "type": "project",
-    "license": "GNU",
+    "license": "GNU/GPL",
     "autoload": {
         "psr-4": {
             "Dimensitiga\\Sam\\": "src/"
